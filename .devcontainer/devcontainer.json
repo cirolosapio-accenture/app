@@ -1,10 +1,11 @@
 {
-    "dockerComposeFile": "compose.yml",
-    "service": "alpine",
+    // "dockerComposeFile": "compose.yml",
+    "dockerFile": "Dockerfile",
+    // "service": "alpine",
     "workspaceFolder": "/app",
     "features": {
-        "ghcr.io/cirolosapio/devcontainers-features/alpine-starship": {},
-        "ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh": {},
-        "ghcr.io/cirolosapio/devcontainers-features/alpine-docker": {}
+        // "ghcr.io/cirolosapio/devcontainers-features/alpine-starship": {},
+        // "ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh": {},
+        // "ghcr.io/cirolosapio/devcontainers-features/alpine-docker": {}
     }
 }
