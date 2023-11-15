@@ -1,0 +1,10 @@
+{
+    "dockerComposeFile": "compose.yml",
+    "service": "alpine",
+    "workspaceFolder": "/app",
+    "features": {
+        "ghcr.io/cirolosapio/devcontainers-features/alpine-starship": {},
+        "ghcr.io/cirolosapio/devcontainers-features/alpine-ohmyzsh": {},
+        "ghcr.io/cirolosapio/devcontainers-features/alpine-docker": {}
+    }
+}
